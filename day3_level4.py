@@ -1,6 +1,5 @@
 #1 declare you age as integer variable
-import math
-
+import math 
 age=18
 #2 declare you height
 height=1.74
